@@ -1,0 +1,11 @@
+{  
+    "Milk": {
+        "Category": "Dairy",
+        "id": 1
+    },
+
+    "Yogurt": {
+        "Category": "Dairy",
+        "id": 2
+    }
+}

@@ -13,10 +13,13 @@ struct ContentView: View {
             Text("Shopping List")
                 .font(.title)
                 .foregroundColor(Color.green)
+            HStack {
+                Button("Grocery List") {
+                    /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
+                }
+            }
         }
-        HStack {
-            
-        }
+
         .padding()
     }
 }
